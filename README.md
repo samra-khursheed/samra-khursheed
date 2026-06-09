@@ -40,4 +40,4 @@ To grow as a Full-Stack Web Developer by building scalable projects and pursuing
 
 ---
 
-⭐ Focused on learning by building, not just watching.
+⭐ Always learning, always improving.
