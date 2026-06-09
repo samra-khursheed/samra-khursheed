@@ -2,15 +2,15 @@
 
 🎓 Final Year DAE (Computer Information Technology) student
 📍 Pakistan
-💻 Passionate about Web Development & Software Engineering
+💻 Aspiring Full-Stack Web Developer
 
 ---
 
 ## 🚀 About Me
 
-I enjoy learning by building real projects instead of only theory. During my studies, I focused on improving my frontend development skills and understanding programming fundamentals through practice.
+I am passionate about building real-world web applications and learning through hands-on development. I focus on both frontend and backend technologies to understand how complete systems work.
 
-I have worked on projects like a Learning Management System (LMS) and an Interactive Quiz Application, which helped me strengthen my problem-solving and web development skills.
+During my studies, I developed practical projects including a Learning Management System (LMS) and an Interactive Quiz Application. The LMS includes backend functionality using PHP and database management using SQL, which helped me understand full-stack development concepts.
 
 ---
 
@@ -19,23 +19,25 @@ I have worked on projects like a Learning Management System (LMS) and an Interac
 * HTML
 * CSS
 * JavaScript
+* PHP
+* SQL
 
 ## 💡 Programming Languages
 
-* C 
-* Java 
+* C (Basic)
+* Java (Basic)
 
 ## 📁 Projects
 
-* Learning Management System (LMS)
-* Interactive Quiz Application
+* Learning Management System (LMS) — PHP + SQL backend
+* Interactive Quiz Application — JavaScript-based
 
 ---
 
 ## 🎯 Current Goal
 
-To grow as a skilled Web Developer by building more real-world projects and pursuing higher education in Software Engineering.
+To grow as a Full-Stack Web Developer by building scalable projects and pursuing higher education in Software Engineering.
 
 ---
 
-⭐ Always learning, always improving.
+⭐ Focused on learning by building, not just watching.
